@@ -1,1 +1,1 @@
-# praktikum-pemrograman-c-kamis
+# praktikum-pemrograman-c-SABTU
